@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyHelloCustomer</string>
+    <string name="co_title">必要な情報を入力してください</string>
+    <string name="co_sumai">住まい</string>
+    <string name="co_name">お名前</string>
+    <string name="bt_hyouji">表示</string>
+    <string name="bt_sumaiclear">住まいクリア</string>
+    <string name="bt_nameclear">名前クリア</string>
+</resources>
